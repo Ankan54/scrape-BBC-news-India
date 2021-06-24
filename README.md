@@ -1,5 +1,5 @@
 # scrape-BBC-news-India  
-Scrape today's headlines for India from BBC.com adn store in a HTML file  
+Scrape today's headlines for India from BBC.com and store in a HTML file  
 
 in command prompt, navigate to file location  
 ```

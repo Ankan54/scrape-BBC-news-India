@@ -15,3 +15,11 @@ to run script
 ```
 python code.py
 ```
+
+
+the HTML file created can be opened from command prompt.  
+to run the program and open the HTML page consequently, create a batch file as per below process.  
+
+open notepad as empty file  
+write:  
+"<yur python.exe location>" "<your >"

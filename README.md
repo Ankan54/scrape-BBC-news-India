@@ -22,4 +22,12 @@ to run the program and open the HTML page consequently, create a batch file as p
 
 open notepad as empty file  
 write:  
-"<yur python.exe location>" "<your >"
+```  
+"<your python.exe location>" "<your code.py location>"  
+start "" "file:///<HTML file location>"  
+pause
+```  
+
+save the notepad file with .bat extension.  
+
+double click on the batch file to run.
